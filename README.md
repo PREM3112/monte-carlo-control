@@ -92,8 +92,8 @@ def mc_control(env, gamma=1.0,
 ```
 
 ## OUTPUT:
-### Name: Joel John Jobinse
-### Register Number: 212223240062
+### Name: PREM R
+### Register Number: 212223240124
 
 <img width="862" height="282" alt="image" src="https://github.com/user-attachments/assets/f4c4b832-6bdc-430f-98f6-2ea9b446a2f6" />
 
